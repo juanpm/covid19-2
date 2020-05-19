@@ -12,3 +12,6 @@ Este proyecto acabara con el mundo
 | PHPMailer  | 6.1.5   |  https://github.com/PHPMailer/PHPMailer   |
 | Underscore | 1.3.1 | https://brianhaveri.github.io/Underscore.php/    |
 | Krumo | 2.0 | http://krumo.sourceforge.net/    |
+## Como deplegar la aplicacion
+     - Para descargar la aplicacion se realiza lo siguiente
+      * Hacer un git clone a nuestro proyecto de github
