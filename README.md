@@ -13,5 +13,9 @@ Este proyecto acabara con el mundo
 | Underscore | 1.3.1 | https://brianhaveri.github.io/Underscore.php/    |
 | Krumo | 2.0 | http://krumo.sourceforge.net/    |
 ## Como deplegar la aplicacion
-     - Para descargar la aplicacion se realiza lo siguiente
+     - Para descargar la aplicacion se realiza lo siguiente:
       * Hacer un git clone a nuestro proyecto de github
+
+## Como iniciar sesion
+     - git config --global user.email "example@gmail.com"
+     - git config --global user.name 'juanpm'
