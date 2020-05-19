@@ -19,3 +19,6 @@ Este proyecto acabara con el mundo
 ## Como iniciar sesion
      - git config --global user.email "example@gmail.com"
      - git config --global user.name 'juanpm'
+
+## Cambios en cavid.v2
+     -Cambios en el nombre de la rama
