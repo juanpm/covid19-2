@@ -1,24 +1,21 @@
 # covid19-2
 Este proyecto acabara con el mundo
 ## Creditos
-     - Juan 
-     - Dany
-     - Patrick
-## Requerimientos
-| Software  | Version    | Pagina |
-| --------|---------|-------|
-| pChart  | 09.19.08   | http://pchart.sourceforge.net/   |
-| PHP Excel Reader | 2.21 | https://code.google.com/archive/p/php-excel-reader/    |
-| PHPMailer  | 6.1.5   |  https://github.com/PHPMailer/PHPMailer   |
-| Underscore | 1.3.1 | https://brianhaveri.github.io/Underscore.php/    |
-| Krumo | 2.0 | http://krumo.sourceforge.net/    |
-## Como deplegar la aplicacion
-     - Para descargar la aplicacion se realiza lo siguiente:
-      * Hacer un git clone a nuestro proyecto de github
+     - Juan
+## Requerimientos Funcionales de la Aplicacion Movil de Fixture
+## para las olimpiadas de la conti
 
-## Como iniciar sesion
-     - git config --global user.email "example@gmail.com"
-     - git config --global user.name 'juanpm'
-
-## Cambios en cavid.v2
-     -Cambios en el nombre de la rama
+**Interfaz** 
+R1: La aplicacion movil permitira visualizar el fixture de todos los partidos.
+R2: La aplicacion movil permitira visualizar todas las fases de los partidos.
+R3: La plicacion movil permitira visualizar la fecha y hora de los partidos.
+R4: La aplicion movil permitira visualizar a los equipos ganadores.
+**Funcionalidad**
+R5: La aplicacion debe permitir registrar la fecha de inicio y fin de la olimpiada
+ 
+## Requerimientos No Funcionales de la Aplicacion Movil de Fixture
+## para las olimpiadas de la conti
+RNF1: La aplicacion movil debe soportar acceso concurrente
+RNF2: La aplicacion movil debe estar disponible en distintas plataformas.
+RNF3: La aplicacion movil debe ser intuitiva y facil de entender.
+RNF4: La aplicacion movil debe tener un diseño bien definido. 
